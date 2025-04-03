@@ -4,7 +4,9 @@
 
 MealSuggester2 is a simple and fun **Android app** built using **Jetpack Compose (Kotlin)** that helps users decide what to eat based on the time of day. The app provides **meal suggestions** for different periods (**morning, mid-morning, afternoon, mid-afternoon, dinner, and after dinner**) and features an **intuitive, user-friendly interface**.  
 
-📽️ **[🎬 Watch the Demo on YouTube](YOUR_YOUTUBE_LINK_HERE)**  
+📽️ **[🎬 Watch the Demo on YouTube](https://youtube.com/shorts/w8JlYua3o)** 
+
+
 
 ---
 
